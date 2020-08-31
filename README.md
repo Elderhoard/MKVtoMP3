@@ -6,3 +6,5 @@ FFMPEG and Mutagen needs to be added to the the system variables paths.
 Why does VSCode still use an old account!!!!
 
 Fixed it... weird way of doing it though...
+
+Nope now I fixed it.

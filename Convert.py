@@ -26,7 +26,7 @@ def reset_counters(FType):
     global num_files
     global curr_file
     
-    num_viles = len(glob.glob(FType))
+    num_files = len(glob.glob(FType))
     curr_file = 1
 
 #Append faiure to end of error log file
